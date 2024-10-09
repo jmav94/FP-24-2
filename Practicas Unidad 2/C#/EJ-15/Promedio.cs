@@ -67,7 +67,7 @@ namespace EJ_15
                 menor=E;
             }
 
-            return (A + B + C + D + E - mayor - menor) / 5.0;
+            return (A + B + C + D + E - mayor - menor) / 3.0;
         }
     }
 }
